@@ -1,7 +1,7 @@
 {
   "_comment": "추천(featured:true) 게임만 상점에 보인다. 게임을 추가하려면 games 맨 끝에 한 칸 + img/<id>.png(256px). 프로덕션(플레이 공개)인 것만 올린다.",
   "title": "wailfate 게임 상점",
-  "subtitle": "추천 역사 전략 게임",
+  "subtitle": "역사 전략 게임 모음",
   "games": [
     {
       "id": "aod2",
@@ -37,7 +37,7 @@
       "tagline": "892년, 신라가 기울었다. 왕건·견훤·궁예 중 하나로 삼한을 다투는 턴제 역사 전략 시뮬레이션.",
       "genre": "후삼국 전략",
       "added": "2026-08-01",
-      "featured": false
+      "featured": true
     },
     {
       "id": "ohosipyukguk",
@@ -46,7 +46,7 @@
       "tagline": "북방 민족이 중원을 나누던 대혼란의 시대, 군웅 하나로 중원을 다투는 역사 전략 시뮬레이션.",
       "genre": "오호십육국 전략",
       "added": "2026-10-02",
-      "featured": false
+      "featured": true
     }
   ]
 }
